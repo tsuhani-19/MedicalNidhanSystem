@@ -381,7 +381,7 @@ MedicalNidhanSystem/
 
 Clone repository
 
-git clone https://github.com/PRATIK-DWIVEDI11/MedicalNidhanSystem.git
+git clone https://github.com/tsuhani-19/MedicalNidhanSystem.git
 
 cd MedicalNidhanSystem/frontend
 
@@ -673,50 +673,7 @@ This project demonstrates:
 \- ✅ Medical domain application
 
 
-
----
-
-
-
-\## 👨‍💻 Author
-
-
-
-\*\*Pratik Dwivedi\*\*
-
-\- 🎓 Full Stack Developer having expertise in MERN , Nextjs and GoLang
-
-\- 🎓 AIDS Mini Project
-
-\- 📧 Email: \[pratikdwivedi107@gmail.com]
-
-\- 🔗 GitHub: \[@PRATIK-DWIVEDI11](https://github.com/PRATIK-DWIVEDI11)
-
----
-
-
-
-\## 🤝 Contributing
-
-
-
 This is an educational project. Feel free to fork and modify for learning purposes.
-
-
-
----
-
-
-
-\## 📞 Support
-
-
-
-For issues, questions, or suggestions:
-
-1\. Open an \[Issue](https://github.com/PRATIK-DWIVEDI11/MedicalNidhanSystem/issues)
-
-2\. Create a \[Discussion](https://github.com/PRATIK-DWIVEDI11/MedicalNidhanSystem/discussions)
 
 
 
